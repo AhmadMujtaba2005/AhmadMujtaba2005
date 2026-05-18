@@ -37,7 +37,7 @@ My long-term vision is to sit at the intersection of Full Stack Development, Cyb
 * 🇵🇰 I'm a Computer Science Student based in **Pakistan**.
 * 🎓 Currently studying at **The University of Lahore**.
 * 🏳️‍🌈 Full Supporter of LGBTQ+. HomoSexual Myself
-* 🌐 Focused on **MERN Stack Devrlopment**.
+* 🌐 Focused on **MERN Stack Development**.
 * 👯 I’m looking to collaborate on **Open Source Projects**
 * 🧩 Hobbies: Coding and Gaming
 
