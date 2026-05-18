@@ -23,12 +23,8 @@
 ###
 
 <p align="left">
-  
-  🎯 About Me
 
- 
-
-I'm Ahmad Mujtaba.<br>I'm a <b>Computer Science Undergraduate</b> at the University of Lahore, passionate about building modern, scalable applications and securing them from the ground up.
+I'm **Ahmad Mujtaba**.<br>I'm a <b>Computer Science Undergraduate</b> at the University of Lahore, passionate about building modern, scalable applications and securing them from the ground up.
 
 Currently sharpening my Full Stack Development skills through the MERN Stack under the <b>Prime Minister's Kamyab Jawan Program</b>.
 
@@ -36,7 +32,6 @@ My long-term vision is to sit at the intersection of Full Stack Development, Cyb
 
 * 🇵🇰 I'm a Computer Science Student based in **Pakistan**.
 * 🎓 Currently studying at **The University of Lahore**.
-* 🏳️‍🌈 Full Supporter of LGBTQ+. HomoSexual Myself
 * 🌐 Focused on **MERN Stack Development**.
 * 👯 I’m looking to collaborate on **Open Source Projects**
 * 🧩 Hobbies: Coding and Gaming
