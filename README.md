@@ -35,6 +35,21 @@ My long-term vision is to sit at the intersection of Full Stack Development, Cyb
 * 🌐 Focused on **MERN Stack Development**.
 * 👯 I’m looking to collaborate on **Open Source Projects**
 * 🧩 Hobbies: Coding and Gaming
+<h2 align="left">🎓 Certifications</h2>
+
+###
+
+<div align="left">
+
+* 🐍 **Google Python Crash Course** — Coursera
+* 🤖 **Google AI Certification / Google AI Crash Course**
+* ☁️ **AWS Certified AI Practitioner**
+* 📈 **SEO, Digital Marketing & AI Automation** — iSkills
+* 💻 **MERN Stack Development** — Prime Minister's Kamyab Jawan Program
+
+</div>
+
+<br clear="both">
 
 ###
 
