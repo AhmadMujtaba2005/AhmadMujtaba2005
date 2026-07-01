@@ -28,7 +28,7 @@ I'm **Ahmad Mujtaba**.<br>I'm a <b>Computer Science Undergraduate</b> at the Uni
 
 Currently sharpening my Full Stack Development skills through the MERN Stack under the <b>Prime Minister's Kamyab Jawan Program</b>.
 
-My long-term vision is to sit at the intersection of Full Stack Development, Cybersecurity, and AI — building robust applications and protecting them with security-first thinking.
+My long-term vision is to specialize in Full Stack Development and Artificial Intelligence, leveraging both to create intelligent, scalable, and modern digital solutions.
 
 * 🇵🇰 I'm a Computer Science Student based in **Pakistan**.
 * 🎓 Currently studying at **The University of Lahore**.
