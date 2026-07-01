@@ -68,7 +68,7 @@ My long-term vision is to specialize in Full Stack Development and Artificial In
 
 ### 
 
-<h2 align="left">📊 My Githiub Stats</h2>
+<h2 align="left">📊 My Github Stats</h2>
 
 ###
 
