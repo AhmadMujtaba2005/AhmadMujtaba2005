@@ -87,7 +87,7 @@ My long-term vision is to specialize in Full Stack Development and Artificial In
 
 ###
 
-<h2 align="left">Follow ME</h2>
+<h2 align="left">➡️Follow ME</h2>
 <a href="https://www.linkedin.com/in/ahmad-mujtaba-m042" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
 </a>
