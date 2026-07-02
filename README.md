@@ -74,7 +74,7 @@ My long-term vision is to specialize in Full Stack Development and Artificial In
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmadMujtaba2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="350" alt="stats graph"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AhmadMujtaba2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="350" alt="stats graph"/> -->
 
 <img src="https://streak-stats.demolab.com?user=AhmadMujtaba2005&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="400"/>
 
