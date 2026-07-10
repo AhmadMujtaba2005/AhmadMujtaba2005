@@ -82,7 +82,7 @@ My long-term vision is to specialize in Full Stack Development and Artificial In
 
 <!-- <img src="https://streak-stats.demolab.com?user=AhmadMujtaba2005&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="400"/> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadMujtaba2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=15&theme=swift&hide_border=true&order=2&custom_title=Languages" width="1800" height="150"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadMujtaba2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=15&theme=swift&hide_border=true&order=2&custom_title=Languages" width="1800" height="150"/> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadMujtaba2005&radius=0&theme=react&area=true&order=5&hide_border=false&custom_title=CONTRIBUTION%20GRAPH&bg_color=FFFEFE&color=000000&title_color=000000&point=000000&area_color=000000&line=FB8E02" height="400"/>
 </div>
