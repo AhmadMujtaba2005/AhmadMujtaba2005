@@ -76,7 +76,11 @@ My long-term vision is to specialize in Full Stack Development and Artificial In
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=AhmadMujtaba2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="350" alt="stats graph"/> -->
 
-<img src="https://streak-stats.demolab.com?user=AhmadMujtaba2005&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="400"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AhmadMujtaba2005&custom_title=Github%20Stats&show_icons=true&card_width=450&hide_border=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=AhmadMujtaba2005&custom_title=Github%20Stats&show_icons=true&card_width=450&hide_border=true&include_all_commits=true&theme=swift)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AhmadMujtaba2005&layout=compact&card_width=450&hide_border=true&hide_title=false&langs_count=10&theme=swift&custom_title=Languages)](https://github-stats-extended.vercel.app/api/top-langs?username=AhmadMujtaba2005&layout=compact&card_width=450&hide_border=true&hide_title=false&langs_count=10&theme=swift&custom_title=Languages)
+
+<!-- <img src="https://streak-stats.demolab.com?user=AhmadMujtaba2005&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="400"/> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadMujtaba2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=15&theme=swift&hide_border=true&order=2&custom_title=Languages" width="1800" height="150"/>
 
