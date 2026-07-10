@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋</h1>
+<h1 align="center">Hi!</h1>
 
 <div align="center">  
   <a href="https://git.io/typing-svg">
@@ -33,16 +33,15 @@ My long-term vision is to specialize in Full Stack Development and Artificial In
 * 🇵🇰 I'm a Computer Science Student based in **Pakistan**.
 * 🎓 Currently studying at **The University of Lahore**.
 * 🌐 Focused on **MERN Stack Development**.
-* 👯 I’m looking to collaborate on **Open Source Projects**
 * 🧩 Hobbies: Coding and Gaming
-<h2 align="left">🎓 Certifications</h2>
+<h2 align="left">Certifications</h2>
 
 ###
 
 <div align="left">
 
 * 🐍 **Google Python Crash Course** — Coursera
-* 🤖 **Google AI Certification / Google AI Crash Course**
+* 🤖 **Google AI Certification / Google Professional AI Course**
 * ☁️ **AWS Certified AI Practitioner**
 * 💻 **MERN Stack Development** — Prime Minister's Kamyab Jawan Program
 
