@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">⚡ Overview </h2>
+<h2 align="left">Overview </h2>
 
 ###
 
@@ -52,7 +52,7 @@ My long-term vision is to specialize in Full Stack Development and Artificial In
 
 ###
 
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -68,7 +68,7 @@ My long-term vision is to specialize in Full Stack Development and Artificial In
 
 ### 
 
-<h2 align="left">📊 My Github Stats</h2>
+<h2 align="left">My Github Stats</h2>
 
 ###
 
