@@ -41,8 +41,6 @@ My long-term vision is to specialize in Full Stack Development and Artificial In
 <div align="left">
 
 * 🐍 **Google Python Crash Course** — Coursera
-* 🤖 **Google AI Certification / Google Professional AI Course**
-* ☁️ **AWS Certified AI Practitioner**
 * 💻 **MERN Stack Development** — Prime Minister's Kamyab Jawan Program
 
 </div>
