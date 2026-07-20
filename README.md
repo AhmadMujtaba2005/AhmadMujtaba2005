@@ -26,8 +26,6 @@
 
 I'm **Ahmad Mujtaba**.<br>I'm a <b>Computer Science Undergraduate</b> at the University of Lahore, passionate about building modern, scalable applications and securing them from the ground up.
 
-Currently sharpening my Full Stack Development skills through the MERN Stack under the <b>Prime Minister's Kamyab Jawan Program</b>.
-
 My long-term vision is to specialize in Full Stack Development and Artificial Intelligence, leveraging both to create intelligent, scalable, and modern digital solutions.
 
 * 🇵🇰 I'm a Computer Science Student based in **Pakistan**.
