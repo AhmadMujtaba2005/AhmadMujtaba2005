@@ -32,7 +32,7 @@ My long-term vision is to specialize in Full Stack Development and Artificial In
 
 * 🇵🇰 I'm a Computer Science Student based in **Pakistan**.
 * 🎓 Currently studying at **The University of Lahore**.
-* 🌐 Focused on **MERN Stack Development**.
+* 🌐 Focused on **Full Stack Development**.
 * 🧩 Hobbies: Coding and Gaming
 <h2 align="left">Certifications</h2>
 
