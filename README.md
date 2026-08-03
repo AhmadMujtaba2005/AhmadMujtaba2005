@@ -97,8 +97,6 @@ Fun fact:    Coder by day, gamer & bike enthusiast by night 🏍️
 
 </div>
 
-> ⚠️ This points to **your own** generated file, not a demo — it will only render once the workflow below runs on your account (the last README used Platane's public demo SVG, which is why it looked fake/static). See the setup file provided alongside this README to make it live.
-
 ---
 
 ## 🌐 Connect With Me
