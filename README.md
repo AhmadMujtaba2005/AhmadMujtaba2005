@@ -1,98 +1,118 @@
-<h1 align="center">Hi!</h1>
-
-<div align="center">  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+Ahmad+Mujtaba;CS+Undergrad+@+UOL;Learning+MERN+Stack;Gaming;" alt="Typing SVG" />
-  </a>
-</div>
-
-<br>
-
 <div align="center">
-  <img src="https://count.getloli.com/@:AhmadMujtaba2005?theme=sketch-1&padding=7&scale=1.5&align=center&pixelated=0&darkmode=0"  />
-</div>
 
-###
+# Ahmad Mujtaba
 
-<br clear="both">
-
-###
-
-<h2 align="left">Overview </h2>
-
-###
-
-<p align="left">
-
-I'm **Ahmad Mujtaba**.<br>I'm a <b>Computer Science Undergraduate</b> at the University of Lahore, passionate about building modern, scalable applications and securing them from the ground up.
-
-My long-term vision is to specialize in Full Stack Development and Artificial Intelligence, leveraging both to create intelligent, scalable, and modern digital solutions.
-
-* 🇵🇰 I'm a Computer Science Student based in **Pakistan**.
-* 🎓 Currently studying at **The University of Lahore**.
-* 🌐 Focused on **Full Stack Development**.
-* 🧩 Hobbies: Coding and Gaming
-<h2 align="left">Certifications</h2>
-
-###
-
-<div align="left">
-
-* 🐍 **Google Python Crash Course** — Coursera
-* 💻 **MERN Stack Development** — Prime Minister's Kamyab Jawan Program
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Exploring+Next.js+%26+TypeScript;CS+Undergrad+%40+University+of+Lahore" alt="Typing SVG" />
+</a>
 
 </div>
 
-<br clear="both">
+<br/>
 
-###
+## 🧑‍🚀 About Me
 
-<h2 align="left">Tech Stack</h2>
+```yaml
+Name:        Ahmad Mujtaba
+Location:    Lahore, Pakistan 🇵🇰
+Education:   BS Computer Science, University of Lahore (Class of 2027)
+Focus:       Full Stack Development  ➜  Artificial Intelligence
+Currently:   Full Stack Developer Intern @ Data Quartz
+Learning:    Next.js, TypeScript
+Fun fact:    Coder by day, gamer & bike enthusiast by night 🏍️
+```
 
-###
+- 🎯 Long-term goal: intelligent, scalable digital solutions — where **web dev meets AI**
+- 🛠️ Working on **NestGuard**, my Final Year Project — an AI-powered hostel access control system with biometric authentication
+- 🧠 Roadmap: `MERN (done) → Next.js & TypeScript → Python & FastAPI → AI/ML (IBM + Andrew Ng)`
+- 🎮 When I'm not coding: gaming, bikes, and building creative side-projects
+- 📫 Reach me: **mujtabaahmad908@gmail.com**
 
-<br clear="both">
+---
 
-|                                                                                                                                                                                                                                                                Languages                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                Frameworks & Libraries                                                                                                                                                                                                                                                                                                               |                                                                                                   Databases                                                                                                   |                                                                                              Tools & Hosting                                                                                              |                                                                                                                                                   Editors & Platforms                                                                                                                                                  |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> |
-
-<br clear="both">
-
-###
-
-### 
-
-<h2 align="left">My Github Stats</h2>
-
-###
+## ⚙️ Tech Stack
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=AhmadMujtaba2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="350" alt="stats graph"/> -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,php,nextjs,react,nodejs,express,tailwind,bootstrap,redux,mysql,mongodb,git,github,postman,vscode&theme=dark&perline=10"/>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AhmadMujtaba2005&custom_title=Github%20Stats&show_icons=true&card_width=450&hide_border=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=AhmadMujtaba2005&custom_title=Github%20Stats&show_icons=true&card_width=450&hide_border=true&include_all_commits=true&theme=swift)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AhmadMujtaba2005&layout=compact&card_width=450&hide_border=true&hide_title=false&langs_count=10&theme=swift&custom_title=Languages)](https://github-stats-extended.vercel.app/api/top-langs?username=AhmadMujtaba2005&layout=compact&card_width=450&hide_border=true&hide_title=false&langs_count=10&theme=swift&custom_title=Languages)
-
-<!-- <img src="https://streak-stats.demolab.com?user=AhmadMujtaba2005&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="400"/> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadMujtaba2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=15&theme=swift&hide_border=true&order=2&custom_title=Languages" width="1800" height="150"/> -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadMujtaba2005&radius=0&theme=react&area=true&order=5&hide_border=false&custom_title=CONTRIBUTION%20GRAPH&bg_color=FFFEFE&color=000000&title_color=000000&point=000000&area_color=000000&line=FB8E02" height="400"/>
 </div>
 
-###
+<br/>
 
-###
+<div align="center">
 
-<h2 align="left">Socials</h2>
-<a href="https://www.linkedin.com/in/ahmad-mujtaba-m042" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
-</a>
-<a href="mailto:mujtabaahmad908@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" />
-</a>
-<a href="https://www.instagram.com/ahmadm.042/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</a>
+![MERN Stack](https://img.shields.io/badge/MERN_Stack-Mastered-00C9FF?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.js & TypeScript](https://img.shields.io/badge/Next.js%20%26%20TypeScript-Exploring-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20%2F%20ML-Roadmap-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+[![Anthropic Claude 101](https://img.shields.io/badge/Anthropic-Claude%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](#)
+[![Anthropic AI Fluency & Framework](https://img.shields.io/badge/Anthropic-AI%20Fluency%20%26%20Framework-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](#)
+[![MERN Stack](https://img.shields.io/badge/PM's%20Kamyab%20Jawan-MERN%20Stack-00C9FF?style=for-the-badge&logo=react&logoColor=white)](#)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="top" align="center" style="padding:0 6px;">
+<img src="https://github-stats-extended.vercel.app/api?username=AhmadMujtaba2005&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&card_width=400" width="400" height="195" style="width:400px; height:195px; object-fit:contain;"/>
+</td>
+<td valign="top" align="center" style="padding:0 6px;">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=AhmadMujtaba2005&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&card_width=400" width="400" height="195" style="width:400px; height:195px; object-fit:contain;"/>
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AhmadMujtaba2005&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="97%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadMujtaba2005&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="97%"/>
+
+</div>
+
+---
+
+## 🐍 Real Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AhmadMujtaba2005/AhmadMujtaba2005/output/github-contribution-grid-snake-dark.svg" width="97%" alt="contribution snake — activates once the GitHub Action below runs"/>
+
+</div>
+
+> ⚠️ This points to **your own** generated file, not a demo — it will only render once the workflow below runs on your account (the last README used Platane's public demo SVG, which is why it looked fake/static). See the setup file provided alongside this README to make it live.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-mujtaba-m042)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujtabaahmad908@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmadm.042/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=140&section=footer" width="100%"/>
+
+<div align="center">
+<sub>✨ Thanks for stopping by — always open to collaborating on web dev or AI projects! ✨</sub>
+</div>
