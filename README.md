@@ -89,7 +89,7 @@ Fun fact:    Coder by day, gamer & bike enthusiast by night 🏍️
 
 ---
 
-## 🐍 Real Contribution Snake
+## 🐍 Contributions
 
 <div align="center">
 
@@ -112,5 +112,5 @@ Fun fact:    Coder by day, gamer & bike enthusiast by night 🏍️
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=140&section=footer" width="100%"/>
 
 <div align="center">
-<sub>✨ Thanks for stopping by — always open to collaborating on web dev or AI projects! ✨</sub>
+<sub>Thanks for stopping by — always open to collaborating on web dev or AI projects!</sub>
 </div>
