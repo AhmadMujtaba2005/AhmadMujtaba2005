@@ -24,7 +24,7 @@ Fun fact:    Coder by day, gamer & bike enthusiast by night 🏍️
 
 - 🎯 Long-term goal: intelligent, scalable digital solutions — where **web dev meets AI**
 - 🛠️ Working on **NestGuard**, my Final Year Project — an AI-powered hostel access control system with biometric authentication
-- 🧠 Roadmap: `MERN (done) → Next.js & TypeScript → Python & FastAPI → AI/ML (IBM + Andrew Ng)`
+- 🧠 Roadmap: `MERN (done) → Next.js & TypeScript → Python & FastAPI → AI/ML`
 - 🎮 When I'm not coding: gaming, bikes, and building creative side-projects
 - 📫 Reach me: **mujtabaahmad908@gmail.com**
 
